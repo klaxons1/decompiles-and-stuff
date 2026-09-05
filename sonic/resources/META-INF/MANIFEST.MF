@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+MIDlet-Name: Sonic The Hedgehog Part One
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Glu Mobile LTD
+MIDlet-1: Sonic The Hedgehog Part One, /i.png, Main
+MicroEdition-Profile: MIDP-1.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Icon: /i.png
+Created-By: Metaflow
+
+
