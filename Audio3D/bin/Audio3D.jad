@@ -1,0 +1,9 @@
+MIDlet-1: Audio 3D,, com.nokia.midp.example.jsr234.audio3d.Audio3DMIDlet
+MIDlet-Description: AMMS Audio 3D Example Midlet
+MIDlet-Jar-Size: 46824
+MIDlet-Jar-URL: Audio3D.jar
+MIDlet-Name: Audio 3D
+MIDlet-Vendor: Nokia
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
