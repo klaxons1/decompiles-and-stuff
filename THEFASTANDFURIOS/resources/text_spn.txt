@@ -1,0 +1,201 @@
+¿Quieres activar el sonido?
+Sí
+No
+CARRERA RÁPIDA
+GARAJE
+ARCADE
+ELIGE NIVEL
+OPCIONES
+AYUDA
+Ayuda
+SALIR
+CARRERA
+DERRAPE
+ARRANQUE
+POLICÍA
+NOVATO
+SUB
+RIVAL
+REY
+Selec.
+Carr.
+Apost.
+Acep.
+Atrás
+Idioma
+English
+Deutsch
+Español
+Français
+Italiano
+Sonido
+No
+Sí
+Reiniciar juego
+¿Seguro que quieres reiniciar el juego? Todo tu progreso, lo que has desbloqueado y tus récords se perderán.
+¿Seguro que quieres reiniciar el juego?
+Modos de juego
+Introducción
+Controles
+Acerca de
+Créditos
+\hCarrera rápida\n\nCompite con coches diferentes en una carrera elegida al azar.\n\n\hArcade\n\n¡Bienvenido al mundo de las carreras por apuestas! ¡Recorre el escalafón desde Novato hasta Rey en carreras de lo más radical! Gana carreras para desbloquear circuitos. Tendrás que apostar el título de propiedad de tu coche contra el de un rival. Si ganas, te quedas su coche; si pierdes, te quedas sin coche.
+\hControles\n\n2/arriba - Siguiente marcha (sólo en modo Arranque)\n\n4/ Izquierda - Gira izquierda\n\n6/ Derecha - Gira derecha\n\n8/ Abajo - Freno/ Marcha atrás\n\n5/ Acción - Nitro\n\n0 - Cambiar Càmara\n\nTecla de selección pausa  Pone la partida en pausa\n\nNota: En los arranques el coche maniobra automáticamente, pero tiene sque cambiar de marcha y usar el Nitro tú.
+\hAcerca de\n\n\a\n\s\n\v\n\n© 2008 The Fast and The Furious es una marca comercial y copyright de Universal Studios. Autorizado por Universal Studios Licensing LLLP. Todos los derechos reservados.\n\n© 2008. Publicado por I-play, marca comercial y nombre comercial de Digital Bridges Ltd. Todos los derechos reservados.\n\nAsistencia: help@iplay.com
+\hCréditos I-play\n\c\nProductor:\nTone Brennan\n\nDiseño:\nMark McMichael\nStewart Waterson\n\nArte:\nHeather Capelli\n\nControl de Calidad:\nSong Lee\nEric Dean\nCristian Dumitrescu\n \nLocalización:\nIoan Burtea\n\nExportación\n\nJefe Técnico:\nRadu Steopan\n\nJefe Control de Calidad:\nAlina Sirbu\n\nControl de Calidad:\nOvidiu Raianu\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                             \n\hCréditos Firemint \n\c\nPresidente:\nRobert Murray\n\nProductor:\nRonald Haupt\n\nDirector Técnico:\nKynan Woodman\n\nDirector Programmador:\nPatrick Broddesson\n\nDirector Arte:\nJesse West\n\nJefe Programmador:\nBen D'Arcy\n\nProgrammador:\nBen Turner\n\nArte:\nAndrew Trawn\nTao Huang\n\nDirector\nControl de Calidad:\nDavid Doe\n\nControl de Calidad:\nDavid Doe \nLucas Regester
+¿Seguro que quieres salir del juego?
+CARGANDO
+PULSA UNA TECLA
+Pausa
+Menú de pausa
+Seguir
+Menú principal
+Menú Arcade
+Reiniciar
+¿Seguro que quieres reiniciar la carrera?
+¿Seguro que quieres salir?\n\nTodo tu progreso desde el último punto guardado se perderá.
+Reiniciar
+¿Seguro que quieres reiniciar tus récords?
+¡Nuevo mejor tiempo!
+Buen intento
+Tiempo actual:
+Mejor tiempo previo:
+Tiempo anterior:
+BLOQUEADO
+¡Has ganado!
+¡Has perdido!
+¡Pillado!
+¡Dirección equivocada!
+Velocidad:
+km/h
+mph
+¡No hay espacio libre suficiente en tu teléfono para guardar datos! Libera algo de memoria y reinicia, o continúa sin guardar.
+Volumen:
+Pulsa 5 para continuar
+1º
+2º
+3º
+4º
+Jug.
+Memoria llena. Asegúrate de que todas las aplicaciones y conexiones están cerradas e inténtalo de nuevo. Si el problema persiste apaga el teléfono y vuélvelo a encender. Si el problema todavía persiste, contacta help@iplay.com
+Por favor, para optimizar el juego, apaga y enciende el teléfono antes de empezar a jugar.
+CARRETERA
+DERRAPE EN CAÑÓN
+ARRANQUE
+PERSECUCIÓN POLICIAL
+DERRAPE EN CAÑÓN
+PERSECUCIÓN POLICIAL
+ARRANQUE
+CARRETERA
+CARRETERA
+GUERRA DE DERRAPES
+ARRANQUE
+PERSECUCIÓN POLICIAL
+ARRANQUE
+PERSECUCIÓN POLICIAL
+DESFILADERO CAÑÓN
+CARRETERA
+Mejor tiempo
+Derrape
+Tít. de propiedad
+SELECCIONAR COCHE
+APOSTAR TÍTULO
+LOS ÁNGELES
+TOKIO
+MIAMI
+Saltar
+¿Seguro?
+Borrar perfil
+SÚPER COCHES
+IMPORTACIÓN
+CLÁSICOS
+ALTO RENDIMIENTO
+DEPORTIVOS
+TUNEADOS
+¡Coche embargado!
+¡Polis perdidos!
+Carr. desbloq.
+Posición:
+Tiempo:
+Derrape:
+Objetivo:
+Ganado
+Perdido
+Tít. de prop.:
+¡Has fallado!
+¡Tienes todos los coches! ¡Has desbloqueado el coche de Dom!
+Parece que pasan de tu TiXs...
+¿Seguro que quieres cambiar el idioma?
+OBJETIVO
+¡Acaba el primero!\n\n4/6 - Izda. / Dcha.\n5 - Nitro
+¡Sé el primero en cruzar la línea de meta y supera la puntuación de derrape objetivo!
+Cambia de marcha cuando la aguja se vuelva verde para ganar.\n\n2 / arriba - siguiente marcha\n5 / Ok - ¡Nitro!
+¡Escápate cruzando la línea de meta antes de que los polis se carguen tu coche!\n4/6 - Izda. / Dcha.\n5 - Nitro\n8 - Freno / M. atrás
+CONSEJO
+Usa la opción Título de propiedad para apostarte tu vehículo contra un rival. Si ganas, te quedas su coche; si pierdes, ¡tu coche es historia!
+Las estadísticas del coche no incluyen el Nitro. ¡Algunos coches lentos pueden cargar mucho más! ¡Los mejores conductores ganan con CUALQUIER coche!
+En Carretera, las flechas azules indican curvas suaves, y las rojas, curvas cerradas. Según el coche que tengas, ¡igual tienes que frenar en curvas rojas!
+Fíjate en las carreras que tienes por delante antes de decidir contra quién apuestas tu título de propiedad.
+Todos los circuitos de derrape tienen un objetivo de derrape fijado. Si no lo alcanzas, olvídate de ganar.
+Durante una carrera, puedes identificar a tu oponente por el título de propiedad que aparece sobre su coche.
+En un Arranque, dosifica el Nitro con inteligencia para sacar más de un acelerón por carrera.
+Los coches clásicos son tan potentes que no necesitan Nitro... Pero ojo, ¡uno de ellos tiene sorpresa!
+En un Arranque, cambia de marcha sólo cuando la aguja se vuelva verde.
+Si los polis te trincan en una persecución policial, ¡te embargarán el vehículo!
+Puedes volver a competir en carreras que hayas terminado para ganar coches nuevos. ¡Puede que uno de ellos sea la clave de tu próxima victoria!
+¡Llena tu garaje y Dom te dará un premio!
+Objetivo de derrape:
+¡Completados todos los circuitos!
+¡Completados todos los circuitos! Tienes un regalo en tu garaje.
+¡¡Bienvenido al mundo de las carreras por apuestas!!\n\nPara ser el rey, tienes que llenar tu garaje con los mejores coches del mundo. ¡Sólo podrás conseguirlos apostando tu Título de propiedad!
+TiXS
+Demon
+Tonio
+Lite
+Deluxe
+Volcano
+Storm
+Vittore
+Titan
+Dominator
+Rally
+Fire
+Steel
+Velocity
+Marque
+Specialist
+Redline
+Roadster
+TypeX
+Racer
+Sideways
+Ninja
+Rocket
+Stufato
+Decano
+Opera
+Cosmo
+Camille
+Evolution
+Prestige
+Black
+Policía
+¡Enhorabuena! Completados todos los eventos. Has desbloqueado un nuevo rango.
+MÁS JUEGOS
+Se requiere una conexión a Internet. ¿Deseas proceder?
+ESQUIVADO
+TE TRINCAN EN
+añadido al garaje
+retirado del garaje
+RESUMEN DE CARRERA
+¿ACTIVAR SONIDO?\n(SONIDO SE DESACTIVARÁ EN $ SEG.)
+¿ACTIVAR SONIDO?\n(SONIDO SE ACTIVARÁ EN $ SEG.)
+¿ACTIVAR SONIDO?\n(SONIDO SE DESACTIVARÁ EN $ SEGS.)
+¿ACTIVAR SONIDO?\n(SONIDO SE ACTIVARÁ EN $ SEGS.)
+Coches especiales no pueden ser perdidos, su coche ha sido templado de nuevo a su garaje
+\hControles\n\nToca el velocímetro para cambiar de marcha (sólo en modo Arranque)\n\nToca la izquierda de la pantalla - Izda. *\n\nToca la derecha de la pantalla - Dcha. *\n\nToca un rato la parte inferior de la pantalla - Freno/ Marcha atrás *\n\nToca el depósito de nitro - Nitro\n\n0 - Cambiar cámara\n\nTecla de selección pausa - Pone la partida en pausa\n\n* No funciona en los arranques.
+TOCA LA PANTALLA
+Toca la pantalla para continuar
+¡Acaba el primero!\n\nToca la izquierda o la derecha de la pantalla para girar.\nToca el depósito de nitro para acelelerar.\nToca un rato la parte inferior de la pantalla para dar marcha atrás.
+Cambia de marcha cuando la aguja se vuelva verde para ganar.\n\nToca la parte de arriba de la pantalla para cambiar de marcha.\nToca el depósito de nitro para acelelerar.
+¡Escápate cruzando la línea de meta antes de que los polis se carguen tu coche!\nToca la izquierda o la derecha de la pantalla para girar.\nToca el depósito de nitro para acelelerar.\nToca un rato la parte inferior de la pantalla para dar marcha atrás.

@@ -1,0 +1,201 @@
+Souhaites-tu activer le son ?
+Oui
+Non
+COURSE RAPIDE
+GARAGE
+HISTOIRE
+CHOISIR LE NIVEAU
+OPTIONS
+AIDE
+Aide
+QUITTER
+COURSE
+DRIFT
+DRAG
+POLICE
+ROOKIE
+ALLIÉ
+RIVAL
+ROI
+Sélec.
+Course
+Pari
+Ok
+Retour
+Langue
+English
+Deutsch
+Español
+Français
+Italiano
+Son
+Non
+Oui
+Réinit. le jeu
+Es-tu sûr de vouloir réinitialiser le jeu ? Progressions,  tout ce que tu as débloqué et records seront perdus.
+Es-tu sûr de vouloir effacer le jeu ? 
+Modes de jeu
+Présentation
+Commandes
+À propos
+Crédits
+\hCourse rapide\n\nParticipe à des courses sélectionnées au hasard avec différentes voitures.\n\n\hHistoire\n\nBienvenue dans lunivers des courses Pink Slip, c'est-à-dire des cartes grises. Débute comme Rookie et trace ta route au gré des courses importantes jusquà devenir le roi du bitume ! Pour débloquer des circuits, tu dois remporter des courses, et pour cela, il te faut miser ta propre carte grise sur la ligne de départ avec un des autres concurrents. Gagne la course et tu remportes sa voiture, échoue et tu perds la tienne.  \n
+\hCommandes\n\n2/Haut - Changement vitesse ( en Drag )\n\n4/Gauche - Tourne à gauche\n\n6/Droite - Tourne à droite\n\n8/Bas - Freine/Recule\n\n5/Centre - NOS\n\n0 - Changer Vue\n\nTouche de sélection pause - Pause le jeu\n\nDans les courses de Drags, la direction est automatique, mais vous devrez changer les rapports et activer le NOS.
+\hÀ propos\n\n\a\n\s\n\v\n\n© 2008 The Fast and The Furious est une marque et copyright d'Universal Studios. Sous license d'Universal Studios Licensing LLLP. Tous droits réservés. \n\n© 2008. Édité par I-play, TM et marque commerciale de Digital Bridges Ltd. Tous droits réservés.\n\nAssistance : help@iplay.com
+\hCrédits I-play\n\c\nProducteur :\nTone Brennan\n\nConcepteurs :\nMark McMichael\nStewart Waterson\n\nGraphisme :\nHeather Capelli\n\nAQ :\nSong Lee\nEric Dean\nCristian Dumitrescu\n \nLocalisation :\nIoan Burtea\n\nPortage\n\nResponsable\ntechnique :\nRadu Steopan\n\nResponsable AQ :\nAlina Sirbu\n\nAQ :\nOvidiu Raianu\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                             \n\hCrédits Firemint \n\c\nPDG :\nRobert Murray\n\nProducteur :\nRonald Haupt\n\nDirecteur \ntehnique :\nKynan Woodman\n\nDirecteur\nProgrammation :\nPatrick Broddesson\n\nResponsable\ngraphisme :\nJesse West\n\nResponsable\nProgrammation :\nBen D'Arcy\n\nProgrammation :\nBen Turner\n\nGraphisme :\nAndrew Trawn\nTao Huang\n\nDirecteur AQ :\nDavid Doe\n\nAQ :\nDavid Doe \nLucas Regester
+Certain de vouloir quitter le jeu ?
+CHARGEMENT
+APPUYEZ SUR UNE TOUCHE
+Pause
+Menu pause
+Continuer
+Menu principal
+Menu histoire
+Recommencer
+Souhaites-tu vraiment recommencer la course ?
+Souhaites-tu vraiment quitter ?\n\nTous les progrès depuis le dernier point de sauvegarde seront perdus.
+Réini.
+Es-tu sûr de vouloir réinitialiser tes meilleurs temps ?
+Nouveau record !
+Bien essayé !
+Temps actuel :
+Meilleur temps :
+Temps à battre :
+BLOQUÉ
+Gagnée !
+Perdue !
+Arrêté !
+Mauvaise direction !
+Vitesse :
+km/h
+mph
+Il n'y a pas assez despace libre dans le téléphone pour sauvegarder !  Libère de la mémoire et redémarre-le ou continue sans sauvegarder.
+Volume :
+Appuie sur 5 pour continuer
+1er
+2ème
+3ème
+4ème
+Jouer
+Mémoire pleine. Vérifie que toutes les applications et les connections de données sont désactivées et réessaie. Si le problème persiste, essaie d'éteindre et de rallumer ton téléphone. Si ce problème continue, contacte help@iplay.com
+Éteins et rallume ton téléphone avant de commencer à jouer, afin d'optimiser la jouabilité.
+COURSE SUR ROUTE
+DRIFT DANS LE CANYON
+COURSE DRAG
+POURSUITE DE POLICE
+DRIFT DANS LE CANYON
+POURSUITE DE POLICE
+COURSE DRAG
+COURSE SUR ROUTE
+COURSE SUR ROUTE
+ATTAQUE DRIFT
+COURSE DRAG
+POURSUITE DE POLICE
+COURSE DRAG
+POURSUITE DE POLICE
+DRIFT DANS LE CANYON
+COURSE SUR ROUTE
+Meilleur temps
+Drift
+Pink Slip
+CHOISIR UNE VOITURE
+PARIER CARTE GRISE
+L.A
+TOKYO
+MIAMI
+Passer
+Certain ?
+Effacer profil
+EXOTIQUE
+IMPORT
+MUSCLE
+PERFORMANCE
+SPORTS
+TUNNING
+Voiture saisie !
+Police semée !
+Course débloquée.
+Tu as terminé :
+Temps :
+Drift :
+Cible :
+Gagnée 
+Perdue 
+Carte grise :
+Course perdue !
+Toutes les voitures remportées ! Voiture de Dom débloquée !
+Ils ne veulent pas de ton TiXs ! 
+Souhaites-tu vraiment changer la langue ?
+OBJECTIF
+Termine premier !\n\n4/6 - Volant Gauche / Droite\n5 - Nitro\n8 - Frein / Marche Arrière
+Coupe la ligne en premier et dépasse l'objectif de Drift !
+Gagne la course en passant les vitesses quand l'aiguille est sur le vert.\n\n2 / haut - changement de vitesse\n5 / Ok - Nitro Boost!
+Coupe la ligne avant que la police ne détruise ta voiture !\n4/6 - Volant Gauche / Droite\n5 - Nitro\n8 - Frein / Marche arrière
+ASTUCE
+Utilise l'option Pink Slip pour parier contre un adversaire. Gagne et sa voiture est tienne. Perds et tu connais la suite !
+Les statistiques ne tiennent pas compte du Nitro. Certaines voitures lentes peuvent embarquer beaucoup de Nitro ! Un grand pilote peut gagner avec n'importe quelle voiture !
+En course sur route, une flèche bleue indique un virage modéré, une rouge un virage serré. Selon la voiture, il faut freiner pour passer ces derniers !
+Essaye d'anticiper les courses à venir. Cela peut aider à choisir qui affronter en Pink Slip !
+Chaque circuit Drift a un objectif de Drift ! Tu ne peux gagner si tu ne l'atteins pas. 
+En course, tu peux repérer l'adversaire contre lequel tu as parié grâce au Pink Slip au-dessus de sa voiture !
+En course Drag, utilise ton Nitro Boost au bon moment pour pouvoir l'utiliser plusieurs fois !
+Les voitures de catégorie Muscle sont si puissantes qu'elles n'ont pas besoin de Nitro, sauf une qui a un secret !
+En course Drag, tu ne dois changer de vitesse que quand l'aiguille passe dans le vert !
+Si tu te fais arrêter par la police en poursuite, ta voiture est saisie !
+Rejoue des courses pour gagner de nouvelles voitures. Elles peuvent être déterminantes pour la suite !
+Remplis ton garage et Dom te donnera une récompense !
+Objectif de Drift :
+Toutes les courses terminées !
+Toutes les courses terminées ! Un cadeau t'attend au garage.
+Bienvenu dans le monde des courses Pink Slip !\n\nPour devenir le roi tu dois remplir ton garage des meilleures voitures du monde, et le seul moyen d'y parvenir c'est de parier les tiennes en course ! 
+TiXS
+Démoniaque
+Tonio
+Lite
+Luxe
+Volcano
+Storm
+Vittore
+Titan
+Dominator
+Rallye
+Fire
+Acier
+Vélocité
+Marque
+Spécialiste
+Redline
+Roadster
+TypeX
+Racer
+Sideways
+Ninja
+Rocket
+Stufato
+Decano
+Opéra
+Cosmo
+Camille
+Évolution
+Prestige
+Black
+Police
+Bravo ! Tu as terminé toutes les courses, nouveau rang débloqué.
+PLUS DE JEUX
+Cela exige une connexion à Internet, souhaitez-vous continuer ?
+ÉVADÉ
+ATTRAPÉ
+ajoutée au garage !
+retirée du garage !
+RÉSUMÉ COURSE
+ACTIVER SON ?\n(DÉSACTIVÉ PAR DÉFAUT DANS $ SECONDE)
+ACTIVER SON ?\n(ACTIVÉ PAR DÉFAUT DANS $ SECONDE)
+ACTIVER SON ?\n(DÉSACTIVÉ PAR DÉFAUT DANS $ SECONDES)
+ACTIVER SON ?\n(ACTIVÉ PAR DÉFAUT DANS $ SECONDES)
+Des voitures spéciales ne peuvent pas être perdues, votre voiture a été reaccordée à votre garage
+\hCommandes\n\nToucher le compteur - Changer de vitesse (en mode Drag) \n\nToucher le côté gauche de l'écran - Tourner à gauche *\n\nToucher le côté droit de l'écran - Tourner à droite *\n\nToucher longuement le bas de l'écran - Freiner/Reculer *\n\nToucher la bouteille de Nitro - NOS\n\n0 - Vue caméra\n\nTouche de sélection Pause - Jeu en pause\n\n* Ne s'applique pas aux courses de Drags
+TOUCHE L'ÉCRAN
+Touche l'écran pour continuer
+Termine premier !\n\nTouche la gauche ou la droite de l'écran pour tourner.\nTouche la bouteille de Nitro pour accélérer brusquement.\nTouche longuement le bas de l'écran pour reculer.
+Gagne la course en passant les vitesses quand l'aiguille est dans le vert.\n\nTouche le haut de l'écran pour changer de vitesse.\nTouche la bouteille de Nitro pour accélérer brusquement.
+Coupe la ligne avant que la police ne détruise ta voiture !\nTouche la gauche ou la droite de l'écran pour tourner.\nTouche la bouteille de Nitro pour accélérer brusquement.\nTouche longuement le bas de l'écran pour reculer.

@@ -1,0 +1,201 @@
+Willst du den Ton aktivieren?
+Ja
+Nein
+SCHNELLES RENNEN
+WERKSTATT
+ARCADE
+LEVEL WÄHLEN
+OPTIONEN
+HILFE
+Hilfe
+BEENDEN
+RENNEN
+DRIFT
+DRAG
+POLIZEI
+ANF.
+SIDEKICK
+RIVALE
+KING
+Wählen
+Rennen
+Wetten
+Ok
+Zurück
+Sprache
+English
+Deutsch
+Español
+Français
+Italiano
+Ton
+Aus
+Ein
+Sp. zurücksetz.
+Das Spiel wirklich zurücksetzen? Aller Fortschritt, freigeschalt. Level und Rekorde gehen verloren.
+Das Spiel wirklich zurücksetzen?
+Spielmodi
+Übersicht
+Steuerung
+Info
+Mitwirkende
+\hSchnelles Rennen\n\nVersuche dich in einem zufällig ausgewählten Rennen und fahre in einer Reihe von Fahrzeugen.\n\n\hArcade\n\nWillkommen in der Welt des Pink-Slip-Rennens. Beginne als Anfänger, absolviere anspruchsvolle Renn-Events und werde der Racing-King! Schalte Strecken frei, indem du Rennen gewinnst. Gewinne Rennen, indem du dein Auto aufs Spiel setzt und mit deinen Gegnern um den Fahrzeugschein, den ''Pink Slip'' wettest. Gewinnst du, gehört das gegnerische Auto dir. Verlierst du, ist dein Auto weg.\n
+\hSteuerung\n\n2/Oben - Schalten (nur im Drag-Modus)\n\n4/Links - Nach links\n\n6/Rechts - Nach rechts\n\n8/Unten - Bremsen / Rückwärts\n\n5/Feuer - Nitro\n\n0 - Kamera Ändern\n\nAuswahltaste Pause - Spiel anhalten\n\nHinweis: In Drag-Rennen wird dein Fahrzeug automatisch gelenkt. Du musst jedoch selbst schalten und Nitro aktivieren.
+\hInfo\n\n\a\n\s\n\v\n\n© 2008 The Fast and The Furious ist ein Warenzeichen und Copyright der Universal Studios. Unter Lizenz von Universal Studios Licensing LLLP. Alle Rechte vorbehalten.\n\n© 2008. Herausgegeben von I-play, Warenzeichen und Handelsname von Digital Bridges Ltd. Alle Rechte vorbehalten.\n\nKundendienst: help@iplay.com
+\hI-play Mitwirkende\n\c\nProduzent:\nTone Brennan\n\nDesign:\nMark McMichael\nStewart Waterson\n\nGrafik:\nHeather Capelli\n\nQS:\nSong Lee\nEric Dean\nCristian Dumitrescu\n \nLocalisation:\nIoan Burtea\n\nPortierung\n\nTechnik Leiter:\nRadu Steopan\n\nQS Leiter:\nAlina Sirbu\n\nQS:\nOvidiu Raianu\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                             \n\hMitwirkende Firemint \n\c\nGeschäftsführer:\nRobert Murray\n\nProduzent:\nRonald Haupt\n\nTechnisch Leiter:\nKynan Woodman\n\nLeitender Programmierer:\nPatrick Broddesson\n\nLeitender Grafiker:\nJesse West\n\nProgrammierer Verantwortlich:\nBen D'Arcy\n\nProgrammierer:\nBen Turner\n\nGrafik:\nAndrew Trawn\nTao Huang\n\nQS Leitung:\nDavid Doe\n\nQS:\nDavid Doe \nLucas Regester
+Willst du wirklich das Spiel beenden?
+LÄDT
+TASTE DRÜCKEN
+Pause
+Pausenmenü
+Fortsetzen
+Hauptmenü
+Arcade-Menü
+Neustart
+Rennen neu starten - sicher?
+Wirklich beenden?\n\nAller Fortschritt seit letzter Speicherung geht verloren.
+Lösch.
+Willst du wirklich deine Rekorde löschen?
+Neue Bestzeit!
+Netter Versuch
+Aktuelle Zeit:
+Vorh. Bestzeit:
+Zeit zu schlagen:
+GESPERRT
+Du hast gewonnen!
+Du hast verloren!
+Erwischt!
+Falsche Richtung!
+Geschwindigkeit
+km/h
+mph
+Auf dem Handy ist nicht genug Platz zum Speichern der Daten! Lösche Daten und starte neu, oder fahre ohne Speichern fort.
+Volumen
+Drücke 5 zum Fortfahren
+1.
+2.
+3.
+4.
+Spielen
+Speicher ist voll. Stelle sicher, dass alle Anwendungen und Datenverbindungen beendet wurden, und versuche es erneut. Gibt es weiterhin Probleme, schalte das Handy aus und wieder ein, oder schreibe an help@iplay.com
+Schalte bitte dein Handy aus und wieder ein, um das Spiel zu optimieren, bevor du es startest.
+STRASSENRENNEN
+CANYON-DRIFT
+DRAG-RENNEN
+COP-JAGD
+CANYON-DRIFT
+COP-JAGD
+DRAG-RENNEN
+STRASSENRENNEN
+STRASSENRENNEN
+DRIFT-ANGRIFF
+DRAG-RENNEN
+COP-JAGD
+DRAG-RENNEN
+COP-JAGD
+CANYON-DRIFT
+STRASSENRENNEN
+Bestzeit
+Drift
+Pink Slip
+FAHRZEUG WÄHLEN
+PINK-SLIP-WETTE
+L.A.
+TOKYO
+MIAMI
+Überspringen
+Bist du sicher?
+Profil löschen
+EXOTISCH
+IMPORT
+POWER
+LEISTUNG
+SPORT
+TUNER
+Auto gepfändet!
+Entkommen!
+Neues Rennen!
+Du bist:
+Zeit:
+Drift:
+Ziel:
+Gewonnen
+Verloren
+Pink Slip:
+Gescheitert!
+Alle Autos gewonnen! Doms Auto frei!
+Offenbar will niemand dein TiXs!
+Willst du wirklich die Sprache ändern?
+ZIEL
+Gehe als Erster ins Ziel!\n\n4/6 - nach links/rechts\n5 - Nitro\n8 - Bremsen/rückwärts
+Gehe als Erster ins Ziel und übertriff das Ziel-Drift-Ergebnis!
+Gewinne das Rennen, indem du schaltest, wenn die Nadel grün wird.\n\n2/Oben - Hochschalten\n5/Ok - Nitro-Boost!
+Erreiche das Ziel, bevor die Cops dein Auto zerstören!\n4/6 - nach links/rechts\n5 - Nitro\n8 - Bremsen/rückwärts
+HINWEIS
+Mit der Option Pink Slip wettest du mit einem Gegner um dein Auto. Gewinnst du, gehört es dir, verlierst du, ist dein Auto weg!
+Nitro ist kein Bestandteil der Autostatistiken. Einige langsamere Autos können große Nitro-Tanks haben! Die besten Fahrer können mit JEDEM Auto gewinnen!
+Bei einem Straßenrennen zeigen die blauen Pfeile eine sanfte, und die roten zeigen eine scharfe Kurve an. Mit manchen Autos musst du bei scharfen Kurven bremsen!
+Sieh dir künftige Rennen an, denn anhand der kommenden Rennen kannst du bestimmen, mit welchen Gegnern du um den Pink Slip wetten kannst!
+Alle Drift-Rennen haben ein Drift-Ziel, das du erreichen musst! Du musst das Ziel erreichen, um zu gewinnen.
+Im Rennen erkennst du Wettgegner am Fahrzeugschein (Pink Slip) über dem Fahrzeug!
+In Drag-Rennen musst du den Nitro-Boost im richtigen Moment einsetzen, um mehrere Boosts benutzen zu können!
+Power-Autos sind so leistungsstark, dass sie kein Nitro brauchen. Ein Auto hat jedoch ein Spezialfeature!
+Im Drag-Rennen solltest du nur dann schalten, wenn die Nadel grün wird!
+Wenn du im Cop-Rennen erwischt wirst, wird dein Auto gepfändet!
+Absolviere abgeschlossene Rennen erneut, um neue Autos zu gewinnen. Eines könnte der Schlüssel zum nächsten Sieg sein!
+Füll deine Werkstatt auf - Dom hat vielleicht einen Preis für dich parat!
+Ziel-Drift:
+Alle Strecken absolviert!
+Alle Strecken absolviert! Deine Werkstatt enthält ein neues Geschenk!
+Willkommen in der Welt des Pink-Slip \nRennens.\n\nUm King zu werden, musst du deine Werkstatt mit den besten Autos der Welt ausstatten. Dazu musst du mit Gegnern um den Fahrzeugschein, den ''Pink Slip'', wetten - und gewinnen! 
+TiXS
+Dämon
+Tonio
+Lite
+Deluxe
+Volcano
+Sturm
+Vittore
+Titan
+Dominator
+Rallye
+Fire
+Steel
+Velocity
+Marque
+Specialist
+Redline
+Roadster
+TypeX
+Racer
+Sideways
+Ninja
+Rocket
+Stufato
+Decano
+Opera
+Cosmo
+Camille
+Evolution
+Prestige
+Schwarz
+Polizei
+Bravo! Alle Events abgeschlossen, neuer Rang frei!
+WEITERE SPIELE
+Es wird eine Verbindung zum Internet benötigt. Fortfahren?
+ENTKOMMEN
+ERWISCHT IN
+neu in Werkst.!
+aus Werk. entf.!
+RENNÜBERSICHT
+TON AKTIVIEREN?\n(TON WIRD IN $S AUF AUS GESTELLT)
+TON AKTIVIEREN?\n(TON WIRD IN $S AUF EIN GESTELLT)
+TON AKTIVIEREN?\n(TON WIRD IN $S AUF AUS GESTELLT)
+TON AKTIVIEREN?\n(TON WIRD IN $S AUF EIN GESTELLT)
+Spezialautos können nicht verloren werden. Dein Auto wurde wieder in der Garage abgestellt.
+\hSteuerung\n\nTacho berühren - Schalten (nur im Drag-Modus)\n\nLinken Bildschirmrand berühren - Nach links lenken *\n\nRechten Bildschirmrand berühren - Nach rechts lenken *\n\nUnteren Bildschirmrand berühren und festhalten - Bremsen/Rückwärts *\n\nNitro-Kanister berühren - Nitro\n\n0 - Kameraperspektive\n\nPause-Softkey - Spiel anhalten\n\n*gilt nicht für Drag-Rennen
+BILDSCHIRM BERÜHREN
+Zum Fortsetzen Bildschirm berühren
+Gehe als Erster ins Ziel!\n\nLinken/Rechten Bildschirmrand berühren - Steuern\nNitro-Kanister berühren - Turbo\nUnteren Bildschirmrand berühren und festhalten - Rückwärts
+Gewinne das Rennen, indem du schaltest, wenn die Nadel grün wird.\n\nOberen Bildschirmrand berühren - Schalten\nNitro-Kanister berühren - Nitro
+Überquere die Ziellinie, bevor die Cops dein Auto zerstören!\nLinken/Rechten Bildschirmrand berühren - Steuern\nNitro-Kanister berühren - Turbo\nUnteren Bildschirmrand berühren und festhalten - Rückwärts

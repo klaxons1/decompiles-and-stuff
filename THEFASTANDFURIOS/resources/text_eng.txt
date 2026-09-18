@@ -1,0 +1,201 @@
+Do you want to activate sound?
+Yes
+No
+QUICK RACE
+GARAGE
+ARCADE
+SELECT LEVEL
+OPTIONS
+HELP
+Help
+EXIT
+RACE
+DRIFT
+DRAG
+POLICE
+ROOKIE
+SIDEKICK
+RIVAL
+KING
+Select
+Race
+Bet
+Ok
+Back
+Language
+English
+Deutsch
+Español
+Français
+Italiano
+Sound
+Off
+On
+Reset Game
+Are you sure you want to reset the game? All progress, unlocks and records will be lost.
+Are you sure you want to reset the game?
+Game Modes
+Overview
+Controls
+About
+Credits
+\hQuick Race\n\nCompete in a randomly selected race using a variety of cars.\n\n\hArcade\n\nWelcome to the world of pink slip racing. Begin as a Rookie and work your way through some serious race events to become the race King! To unlock tracks, you need to win races, to win races you need to put your car on the line by betting its pink slip against one of your opponents. Win and you get his car, lose and your ride is lost. \n
+\hControls\n\n2/Up - Change Gear (Drag mode only)\n\n4/Left - Steer left *\n\n6/Right - Steer right *\n\n8/Down - Brake/Reverse *\n\n5/Fire - Nitro\n\n0 - Camera View\n\nPause soft key - Pauses game\n\nNote: In Drag Races your car steers automatically but you have to change gear and Nitro.\n\n* Does not apply to drag races\n
+\hAbout\n\n\a\n\s\n\v\n\n© 2008 The Fast and The Furious is a trademark and copyright of Universal Studios. Licensed by Universal Studios Licensing LLLP. All rights reserved.\n\n© 2008 Published by I-play, TM and trading name of Digital Bridges Ltd. All rights reserved.\n\nSupport: help@iplay.com
+\hI-play Credits\n\c\nProducer:\nTone Brennan\n\nGame Design:\nMark McMichael\nStewart Waterson\n\nArt:\nHeather Capelli\n\nQA:\nSong Lee\nEric Dean\nCristian Dumitrescu\n\nLocalization:\nIoan Burtea\n\nPorting\n\nLead Developer:\nRadu Steopan\n\nQA Lead:\nAlina Sirbu\n\nQA:\nOvidiu Raianu\n\n\n\hFiremint Credits\n\c\nCEO:\nRobert Murray\n\nSenior Producer:\nRonald Haupt\n\nDevelopment Director:\nKynan Woodman\n\nTechnical Director:\nPatrick Broddesson\n\nArt Director:\nJesse West\n\nLead Programmer:\nBen D'Arcy\n\nAdditional Programmers:\nBen Turner\n\nArtists:\nAndrew Trawn\nTao Huang\n\nQA Manager:\nDavid Doe\n\nQA Staff:\nDavid Doe \nLucas Regester
+Are you sure you want to exit game?
+LOADING
+PRESS ANY KEY
+Pause
+Pause Menu
+Resume
+Main Menu
+Arcade Menu
+Restart
+Are you sure you want to restart race?
+Are you sure you want to quit?\n\nAll progress will be lost from last save point.
+Reset
+Are you sure you want to reset your Best Times?
+New Best Time!
+Nice try
+Current Time:
+Previous Best Time:
+Time to Beat:
+LOCKED
+You Won!
+You Lost!
+Busted!
+Wrong Way!
+Speed:
+km/h
+mph
+There is not enough space on your phone to save data! Free some memory and re-launch or continue without saving data.
+Volume:
+Press 5 to Start
+1st
+2nd
+3rd
+4th
+Play
+Memory is full. Please ensure all applications and data connections are closed and try again. If this problem persists try turning the phone off and on again. If this problem still persists please contact help@iplay.com.
+Please turn your phone off and on again, before beginning the game, to optimize your gameplay.
+ROAD RACE
+CANYON DRIFT
+DRAG RACE
+COP CHASE
+CANYON DRIFT
+COP CHASE
+DRAG RACE
+ROAD RACE
+ROAD RACE
+DRIFT ATTACK
+DRAG RACE
+COP CHASE
+DRAG RACE
+COP CHASE
+CANYON DRIFT
+ROAD RACE
+Best Time
+Drift
+Pink Slip
+SELECT CAR
+BET PINK SLIP
+L.A.
+TOKYO
+MIAMI
+Skip
+Are you sure?
+Clear Profile
+EXOTIC
+IMPORT
+MUSCLE
+PERFORMANCE
+SPORTS
+TUNER
+Car impounded!
+Cops evaded!
+New Race Unlocked.
+Finished:
+Time:
+Drift:
+Target:
+Won
+Lost
+Pink Slip:
+Race failed!
+All cars won! You have unlocked Dom's car!
+Turns out they don't want your TiXs!
+Are you sure you want to change the language?
+OBJECTIVE
+Cross the finish line first!\n\n4/6 - Steer Left / Right\n5 - Nitro\n8 - Brake / Reverse
+Cross the finish line first and beat the target drift score!
+Win the race by changing gears when the needle turns green.\n\n2 / up - change up a gear\n5 / Ok - Nitro Boost!
+Escape over the finish line before the cops destroy your car!\n4/6 - Steer Left / Right\n5 - Nitro\n8 - Brake / Reverse
+HINT
+Use the pink slip option to bet your ride against an opponent. Win and his car is yours. Lose and your ride is history!
+Car stats dont count Nitro. Some slower cars can house large tanks of Nitro! Great drivers can win a race with ANY car!
+In a road race, the blue arrows indicate a gentle corner and the red indicates a hard corner. Depending on your car, you may need to brake for red corners!
+Look ahead to your upcoming races. They may help you decide which opponent is best to pink slip against!
+All drift tracks have a drift target to reach! You can't win if you don't hit the target.
+In a race, you can spot the opponent you bet against by the pink slip above his car!
+In a drag race, time your nitro boost properly to make more than one boost per race!
+Muscle cars are so powerful they dont need Nitro; however, there is one that holds a secret!
+In a drag race, you should only change gear when the needle turns green!
+If you're busted in a cop chase, your ride will be impounded! 
+Replay completed races to win new cars. One could be the key to your next victory!
+Fill your garage and Dom will have a prize waiting for you!
+Target Drift: 
+All tracks completed!
+All tracks completed! A present has been added to your garage.
+Welcome to the home of pink slip racing!!\n\nTo become King, you must fill your garage with the best cars in the world. The only way to get them is to put your car on the line with a pink slip bet! 
+TiXS
+Demon
+Tonio
+Lite
+Deluxe
+Volcano
+Storm
+Vittore
+Titan
+Dominator
+Rally
+Fire
+Steel
+Velocity
+Marque
+Specialist
+Redline
+Roadster
+TypeX
+Racer
+Sideways
+Ninja
+Rocket
+Stufato
+Decano
+Opera
+Cosmo
+Camille
+Evolution
+Prestige
+Black
+Police
+Well done! All events completed. New rank unlocked.
+MORE GAMES
+This requires a connection to the Internet. Do you wish to proceed?
+EVADED
+BUSTED IN
+added to garage!
+removed from garage!
+RACE SUMMARY
+PLAY SOUNDS?\n(SOUND WILL DEFAULT TO OFF IN $ SECOND)
+PLAY SOUNDS?\n(SOUND WILL DEFAULT TO ON IN $ SECOND)
+PLAY SOUNDS?\n(SOUND WILL DEFAULT TO OFF IN $ SECONDS)
+PLAY SOUNDS?\n(SOUND WILL DEFAULT TO ON IN $ SECONDS)
+Special cars cannot be lost. Your car has been returned to your garage.
+\hControls\n\nTap Speedometer to change gear  (Drag mode only)\n\nTap left side of screen - Steer left *\n\nTap right side of screen - Steer right *\n\nTap and Hold the bottom of the screen - Brake/Reverse *\n\nTap Nitro Canister - Nitro\n\n0 - Camera View\n\nPause soft key - Pauses game\n\n* Does not apply to drag races
+TOUCH THE SCREEN
+Touch screen to continue
+Cross the finish line first!\n\nTap Left / Right side of screen to steer\nTap Nitro canister to Boost\nTap the bottom of the screen and hold to reverse
+Win the race by changing gears when the needle turns green.\n\nTap top of screen to change gear\nTap Nitro Canister to Boost
+Escape over the finish line before the cops destroy your car!\nTap Left / Right side of screen to steer\nTap Nitro Canister to Boost\nTap the bottom of the screen and hold to reverse
