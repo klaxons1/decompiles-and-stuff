@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+MIDlet-Vendor: M3GWORKS Team / by SaNeC
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Ops Sniper 3D,/res/image2d/icon.png,com.m3gworks.engine.Game
+ MIDlet
+MIDlet-Icon: /res/image2d/icon.png
+MIDlet-Info-URL: www.m3gworks.com
+MIDlet-Name: Ops Sniper 3D  (by GDC)
+MicroEdition-Profile: MIDP-2.0
+
